@@ -23,7 +23,7 @@ body {
     font-weight: 500;
     font-family: var(--main-font);
     width: 1600px;
-    margin:0px auto;
+    margin: 0px auto;
 
 }
 
@@ -47,7 +47,7 @@ body {
     padding: 0px 15px;
     margin: auto;
     display: block;
-    
+
 }
 
 .section {
@@ -81,7 +81,7 @@ body {
     font-size: 14px;
     line-height: 1.143;
     letter-spacing: 0.02em;
-    margin-right: 295px;
+    margin-right:auto;
 
 }
 
@@ -90,8 +90,11 @@ body {
 
 }
 
-.contact
-{display:flex;}
+.contact {
+    display: flex;
+    margin-left: auto;
+    margin-right: 0px;
+}
 
 .contact-list-link {
     font-size: 14px;
@@ -184,7 +187,8 @@ body {
     font-size: 0;
 
 }
-.work{
+
+.work {
     padding-top: 0px;
 }
 

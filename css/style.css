@@ -81,7 +81,7 @@ body {
     font-size: 14px;
     line-height: 1.143;
     letter-spacing: 0.02em;
-    margin-right:auto;
+    margin-right: auto;
 
 }
 
@@ -255,12 +255,17 @@ body {
     color: white;
 }
 
+.footer-contact {
+    flex-direction: column;
+}
+
 .footer-contact-list-link {
     margin: 0;
 }
 
 .footer-contact-list-item {
     margin: 9px 0 0 0;
+
 }
 
 .address {
@@ -309,7 +314,7 @@ body {
 }
 
 .portfolio-item {
-    margin: 15px 0px 0px 15px;
+    margin: 15px 0px 15px 15px;
     flex-basis: calc(100% / 3 - 15px);
 
 }

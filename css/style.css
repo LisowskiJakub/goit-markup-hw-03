@@ -90,12 +90,12 @@ body {
 
 }
 
-.navigation-list-item:last-child {
+.navigation-list-item {
     margin-right: 0px;
 }
 
 .contact {
-    
+
     margin-left: auto;
     margin-right: 0px;
 }
@@ -108,7 +108,7 @@ body {
 
 }
 
-.contact-list-link:last-child {
+.contact-list-link {
     margin-left: 50px;
 }
 
@@ -159,10 +159,6 @@ body {
 
 .lorem-list-item {
     margin-right: 30px;
-}
-
-.lorem-list-item:last-child {
-    margin-right: 0px;
 }
 
 .lorem-title {
@@ -265,7 +261,7 @@ body {
     flex-direction: column;
 }
 
-.footer-contact-list-link {
+.footer-contact-list-link.footer-contact-list-link {
     margin: 0;
 }
 
